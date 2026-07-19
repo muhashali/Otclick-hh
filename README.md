@@ -91,7 +91,7 @@
   <tr>
     <td width="50%">
       <h3>🔐 Privacy-first Auth</h3>
-      OAuth via Playwright (browser automation — hh.ru's password grant is broken).
+      OAuth via Playwright (browser automation — hh.ru's password grant is broken) ).
       Tokens encrypted with Fernet symmetric encryption.
     </td>
     <td width="50%">
